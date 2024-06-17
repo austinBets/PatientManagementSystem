@@ -1,0 +1,6 @@
+HistoryID,PatientID,Diagnosis,Treatment,VisitDate
+1,1,Asthma,Inhaler,2023-06-15
+2,2,Heart Murmur,Observation,2022-11-20
+3,3,Seizures,Medication,2023-01-10
+4,4,Broken Arm,Cast,2023-08-25
+5,5,Eczema,Cream,2023-03-30

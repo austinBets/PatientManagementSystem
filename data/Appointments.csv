@@ -1,0 +1,6 @@
+AppointmentID,PatientID,DoctorID,AppointmentDate,Reason
+1,1,1,2024-07-01 09:00:00,Regular Checkup
+2,2,2,2024-07-01 10:00:00,Cardiology Consultation
+3,3,3,2024-07-01 11:00:00,Neurological Examination
+4,4,4,2024-07-02 14:00:00,Orthopedic Follow-up
+5,5,5,2024-07-03 15:30:00,Dermatology Consultation

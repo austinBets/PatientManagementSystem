@@ -1,0 +1,6 @@
+PatientID,FirstName,LastName,DateOfBirth,Gender,Address,PhoneNumber
+1,John,Doe,2012-03-25,M,123 Elm St,555-1234
+2,Jane,Smith,2010-06-17,F,456 Oak St,555-5678
+3,Emily,Jones,2015-09-05,F,789 Pine St,555-8765
+4,Michael,Brown,2011-12-12,M,321 Maple St,555-4321
+5,Sarah,Wilson,2013-07-21,F,654 Cedar St,555-6789
