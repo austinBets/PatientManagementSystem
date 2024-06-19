@@ -19,7 +19,7 @@ END;
 IF OBJECT_ID('Patient_Staging', 'U') IS NOT NULL
 BEGIN
     BULK INSERT Patient_Staging
-    FROM 'C:\Users\austi\PateintManagementSystem\data\Patients.csv'
+    FROM 'C:\Users\austi\PatientManagementSystem\data\Patients.csv'
     WITH (
         FIELDTERMINATOR = ',',  
         ROWTERMINATOR = '\n',   
@@ -55,7 +55,7 @@ END;
 IF OBJECT_ID('Doctor_Staging', 'U') IS NOT NULL
 BEGIN
     BULK INSERT Doctor_Staging
-    FROM 'C:\Users\austi\PateintManagementSystem\data\Doctors.csv'
+    FROM 'C:\Users\austi\PatientManagementSystem\data\Doctors.csv'
     WITH (
         FIELDTERMINATOR = ',',  
         ROWTERMINATOR = '\n',   
@@ -91,7 +91,7 @@ END;
 IF OBJECT_ID('Medical_History_Staging', 'U') IS NOT NULL
 BEGIN
     BULK INSERT Medical_History_Staging
-    FROM 'C:\Users\austi\PateintManagementSystem\data\Medical_History.csv'
+    FROM 'C:\Users\austi\PatientManagementSystem\data\Medical_History.csv'
     WITH (
         FIELDTERMINATOR = ',',  
         ROWTERMINATOR = '\n',   
@@ -127,7 +127,7 @@ END;
 IF OBJECT_ID('Appointment_Staging', 'U') IS NOT NULL
 BEGIN
     BULK INSERT Appointment_Staging
-    FROM 'C:\Users\austi\PateintManagementSystem\data\Appointments.csv'
+    FROM 'C:\Users\austi\PatientManagementSystem\data\Appointments.csv'
     WITH (
         FIELDTERMINATOR = ',',  
         ROWTERMINATOR = '\n',   
